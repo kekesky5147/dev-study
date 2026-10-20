@@ -1,0 +1,8 @@
+console.log(7+3)
+console.log(7-3)
+console.log(7*3)
+console.log(7/3)
+console.log(7%3)
+console.log(2**10)
+console.log("1"+2)
+console.log("10"-3)
