@@ -3,11 +3,10 @@ for ( let i = 1; i<11 ; i++) console.log(i)
 
 
 // 1부터 100까지의 합을 구해 출력 → 기대 결과 5050
-// let sum = 0
-// for ( let i = 1; i<=100 ; i++) {
-//     sum += i;}
-//     console.log(sum)
-
+let sum = 0
+for ( let i = 1; i<=100 ; i++) {
+    sum += i;}
+    console.log(sum)
 
 // 1~20 중 짝수만 출력 (%와 if 사용, 어제 배운 조건문 복습)
 for ( let i = 1; i <=20; i++) {
