@@ -5,7 +5,7 @@ const users = [
   { name: "서연", age: 19, isPremium: true },
 ];
 
-// for문으로 scores의 합계 구하기 (어제 복습)
+// for문으로 scores의 합계 구하기 (어제 복습), 이거는 어제꺼 다시 열어서 보면서 작업함 
 let sum=0
 for (let i = 0; i<scores.length; i++ ) {
     sum += scores[i] 
